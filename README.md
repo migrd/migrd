@@ -1,9 +1,9 @@
-## 💜 Koé meu aliado, meu nome é <strong>Miguel</strong>
+## Eae meu aliado, meu nome é <strong>Miguel</strong>
 
-> Sou dev front-end.
+> Sou dev.
 🔭 Meu portfolio: https://migrd.github.io/portfolio/
 
-💬 Fique a vontade para usar meus projetos.
+💬 É só o começo!
 
 ----
 
