@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  <strong>Tecnologias</strong>: Html/CSS, Angular, React, Vue, Python, NodeJS, JavaScript/TypeScript, SQL.
+  <strong>Linguagens</strong>: Html/CSS, Angular, React, Vue, Python, NodeJS, JavaScript/TypeScript, SQL.
 </p>
 
 <p align="left">
