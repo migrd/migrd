@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Sou desenvolvedor <strong>FullStack</strong>, estou trabalhando e gerando valor para empresas desde 2021.<br>
-  Atualmente trabalho na <strong>Myvillage</strong>.
+  Sou desenvolvedor <strong>FullStack</strong>desde 2021.<br>
+  Atualmente estou buscando novas oportunidades.
 </p>
 
 <p align="left">
-  <strong>Linguagens</strong>: Html/CSS, Angular, React, Vue, Python, NodeJS, JavaScript/TypeScript, SQL.
+  <strong>Tecnologias</strong>: Angular, React, Vue, NextJS, Python, NodeJS, JavaScript/TypeScript, SQL.
 </p>
 
 <p align="left">
